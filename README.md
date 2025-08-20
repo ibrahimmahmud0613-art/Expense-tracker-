@@ -15,5 +15,5 @@ A simple Python command-line app to track income and expenses.
 - **Ibrahim Mohammad**  
   - GitHub: [Expense Tracker Repo](https://github.com/ibrahimmahmud0613-art/Expense-tracker)  
   - Email: ibrahimmahmud0163@gmail.com 
-  - LinkedIn: (www.linkedin.com/in/ibrahim-mohammad-2b866422b)
+  - LinkedIn: [Ibrahim Mohammad](https://www.linkedin.com/in/ibrahim-mohammad-2b866422b)
     
