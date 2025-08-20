@@ -11,5 +11,9 @@ A simple Python command-line app to track income and expenses.
 
 ## How to Run
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   ```bash## 👤 Author
+- **Ibrahim Mohammad**  
+  - GitHub: [Expense Tracker Repo](https://github.com/ibrahimmahmud0613-art/Expense-tracker)  
+  - Email: ibrahimmahmud0163@gmail.com 
+  - LinkedIn: (www.linkedin.com/in/ibrahim-mohammad-2b866422b)
+    
